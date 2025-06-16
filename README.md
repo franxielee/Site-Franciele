@@ -13,7 +13,7 @@
     }
 
     header {
-      background: linear-gradient(to right, #6366f1, #4f46e5);
+      background: linear-gradient(to right, #19348b, #19348b);
       color: white;
       padding: 80px 20px;
       text-align: center;
@@ -37,8 +37,9 @@
 
     .section-title {
       font-size: 2rem;
-      color: #4f46e5;
+      color: #19348b;
       margin-bottom: 20px;
+      text-align: center;
     }
 
     .card {
@@ -47,14 +48,34 @@
       padding: 25px;
       margin-bottom: 30px;
       box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+      text-align: center;
+    }
+
+    .minha-foto {
+      width: 200px;
+      height: 200px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-bottom: 20px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+      transition: transform 0.3s ease;
+    }
+
+    .minha-foto:hover {
+      transform: scale(1.05);
     }
 
     ul {
-      padding-left: 20px;
+      list-style: none;
+      padding: 0;
+    }
+
+    ul li {
+      margin: 10px 0;
     }
 
     a {
-      color: #4f46e5;
+      color: #19348b;
       text-decoration: none;
     }
 
@@ -66,14 +87,14 @@
       display: inline-block;
       margin-top: 15px;
       padding: 10px 20px;
-      background-color: #4f46e5;
+      background-color: #19348b;
       color: white;
       border-radius: 5px;
       text-decoration: none;
     }
 
     a.btn:hover {
-      background-color: #4338ca;
+      background-color: #142b6b;
     }
 
     footer {
@@ -95,6 +116,11 @@
   <section>
     <h2 class="section-title">Sobre mim</h2>
     <div class="card">
+      <img
+        src="https://media.licdn.com/dms/image/v2/D4D03AQE8WJCTRgAnLg/profile-displayphoto-shrink_800_800/B4DZaDllyxHwAc-/0/1745964392422?e=1755734400&v=beta&t=DrwGCduCFIaLq5kzSzHd5F-mAJDzcyOb2R-IeTYkG_w"
+        alt="Foto da Franciele"
+        class="minha-foto"
+      >
       <p>Sou apaixonada por transformar processos manuais em soluções automatizadas. Desenvolvo scripts em Google Apps Script, organizo dados em Google Sheets e ajudo times a ganharem tempo e eficiência com tecnologia.</p>
     </div>
 
@@ -103,7 +129,6 @@
       <ul>
         <li>Criação de automações com Google Apps Script</li>
         <li>Envio automático de e-mails com dados filtrados</li>
-        <li>Consultoria em produtividade e dados</li>
         <li>Scripts personalizados para sua rotina</li>
       </ul>
     </div>
@@ -112,12 +137,10 @@
     <div class="card">
       <h3>FilialChargeBot</h3>
       <p>Script que automatiza cobranças por filial com envio de e-mails e CSVs personalizados.</p>
-      <a href="#" class="btn">Ver exemplo</a>
     </div>
     <div class="card">
       <h3>SellerSyncMailer</h3>
       <p>Automação que envia relatórios preventivos com base em dados logísticos de planilhas.</p>
-      <a href="#" class="btn">Ver código</a>
     </div>
 
     <h2 class="section-title">Contato</h2>
@@ -135,4 +158,3 @@
 
 </body>
 </html>
-
