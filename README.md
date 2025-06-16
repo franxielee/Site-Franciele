@@ -124,15 +124,6 @@
       <p>Sou apaixonada por transformar processos manuais em soluções automatizadas. Desenvolvo scripts em Google Apps Script, organizo dados em Google Sheets e ajudo times a ganharem tempo e eficiência com tecnologia.</p>
     </div>
 
-    <h2 class="section-title">Serviços</h2>
-    <div class="card">
-      <ul>
-        <li>Criação de automações com Google Apps Script</li>
-        <li>Envio automático de e-mails com dados filtrados</li>
-        <li>Scripts personalizados para sua rotina</li>
-      </ul>
-    </div>
-
     <h2 class="section-title">Projetos</h2>
 
     <div class="card">
