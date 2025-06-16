@@ -134,20 +134,28 @@
     </div>
 
     <h2 class="section-title">Projetos</h2>
+
     <div class="card">
-      <h3>FilialChargeBot</h3>
-      <p>Script que automatiza cobranças por filial com envio de e-mails e CSVs personalizados.</p>
+      <h3>ChargeBotPlanilhas</h3>
+      <p>🔁 Automatiza cobranças por loja com envio de e-mails e CSVs personalizados.</p>
+      <p>📩 Disparo automático de e-mails com textos personalizados por filial.</p>
+      <p>📊 Geração de relatórios preventivos com base em dados logísticos.</p>
+      <p>✅ Validação automática de valores aprovados pelo financeiro.</p>
+      <p>📆 Criação de relatórios diários, semanais ou mensais com base em filtros dinâmicos.</p>
+      <p>🧠 Regras inteligentes (ex: se valor X > Y, enviar alerta automático).</p>
     </div>
+    
+
     <div class="card">
-      <h3>SellerSyncMailer</h3>
-      <p>Automação que envia relatórios preventivos com base em dados logísticos de planilhas.</p>
-    </div>
+        <h3>Documents</h3>
+        <p>Geração de documentações pdf, com dados de clientes.</p>
+      </div>
 
     <h2 class="section-title">Contato</h2>
     <div class="card">
       <p>Quer automatizar processos na sua empresa ou criar soluções sob medida?</p>
-      <p>Email: franciele.aman07@gmail.com<br>
-         LinkedIn: <a href="https://linkedin.com/in/franxielee" target="_blank">linkedin.com/in/franxielee</a></p>=class="btn" target="_blank">Fale comigo</a>
+      <p>Email: franciele.aman07@gmail.com<br> class="btn" target="_blank">Fale comigo</a>
+         LinkedIn: <a href="https://linkedin.com/in/franxielee" target="_blank">linkedin.com/in/franxielee</a></p>
     </div>
   </section>
 
