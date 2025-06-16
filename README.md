@@ -146,9 +146,8 @@
     <h2 class="section-title">Contato</h2>
     <div class="card">
       <p>Quer automatizar processos na sua empresa ou criar soluções sob medida?</p>
-      <p>Email: franciele@example.com<br>
-         LinkedIn: <a href="https://linkedin.com/in/franxielee" target="_blank">linkedin.com/in/franxielee</a></p>
-      <a href="https://wa.me/5599999999999" class="btn" target="_blank">Fale comigo</a>
+      <p>Email: franciele.aman07@gmail.com<br>
+         LinkedIn: <a href="https://linkedin.com/in/franxielee" target="_blank">linkedin.com/in/franxielee</a></p>=class="btn" target="_blank">Fale comigo</a>
     </div>
   </section>
 
