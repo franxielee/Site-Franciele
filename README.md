@@ -134,13 +134,10 @@
       <p>✅ Validação automática de valores aprovados pelo financeiro.</p>
       <p>📆 Criação de relatórios diários, semanais ou mensais com base em filtros dinâmicos.</p>
       <p>🧠 Regras inteligentes (ex: se valor X > Y, enviar alerta automático).</p>
+      <h3>Documents</h3>
+      <p>📑 Geração de documentações pdf, com dados de clientes.</p>
     </div>
     
-
-    <div class="card">
-        <h3>Documents</h3>
-        <p>Geração de documentações pdf, com dados de clientes.</p>
-      </div>
 
     <h2 class="section-title">Contato</h2>
     <div class="card">
